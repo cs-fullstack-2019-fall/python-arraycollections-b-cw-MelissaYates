@@ -1,3 +1,4 @@
+#QUESTION NUM 3 WAS IGNORED AS PER INSTRUCTIONS FROM KENN
 # python-arrayCollections_b-cw
 
 ### Problem 1:
