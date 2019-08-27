@@ -1,6 +1,6 @@
 #QUESTION NUM 3 WAS IGNORED AS PER INSTRUCTIONS FROM KENN
 # python-arrayCollections_b-cw
-
+See arrays.py for comments. 2/4. Score : 3
 ### Problem 1:
 Create a function with the variable below. After you create the variable do the instructions below that.
 ```
